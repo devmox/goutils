@@ -5,7 +5,7 @@
 # git rm --cached data/parameters.yaml
 
 # Ignorer les fichiers personnels
-*.private
+
 
 *~
 *.log
