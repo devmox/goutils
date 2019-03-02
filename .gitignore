@@ -6,6 +6,7 @@
 
 # Ignorer les fichiers personnels
 
+*.private.*
 
 *~
 *.log
