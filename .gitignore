@@ -1,0 +1,21 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+# Pour ignorer un fichier déja commité :
+# git rm --cached data/parameters.yaml
+
+# Ignorer les fichiers personnels
+
+*~
+*.log
+*.tmp
+*.tmp.*
+log.txt
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.tmp/
+.versions/
+tmp/
+.DS_Store
+Thumbs.db

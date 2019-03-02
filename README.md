@@ -3,6 +3,6 @@ Suite de programmes en Golang pouvant être utilisés dans d'autres programmes G
 
 Installation :
 
-````
+```
 go get github.com/devmox/goutils
-````
+```
